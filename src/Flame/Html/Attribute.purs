@@ -32,6 +32,7 @@ import Flame.Html.Attribute.Internal
       , charset
       , checked
       , class'
+      , classList
       , clipPathAttr
       , clipPathUnits
       , clipRule
